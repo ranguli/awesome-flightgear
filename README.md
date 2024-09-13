@@ -15,3 +15,5 @@
 ## Addons
 
 ## Other Projects
+
+- [FlightGear Multiplayer Map (µ)](https://github.com/t3r/mpmap.js) - A nice, decently modern web-based multiplayer map for FlightGear. Built with NodeJS. View a live demo [here!](https://mpmap03.flightgear.org/)

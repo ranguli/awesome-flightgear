@@ -11,6 +11,7 @@
 ### Military Aviation
 - [F-16](https://github.com/NikolaiVChr/f16)
 - [Mirage 200D](https://github.com/5H1N0B11/flightgear-mirage2000)
+- [KC-137R](https://github.com/JMaverick16/KC-137R)
 
 ## Addons
 

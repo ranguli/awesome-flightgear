@@ -1,9 +1,9 @@
 # awesome-flightgear
 
 ## Table of Contents
-1. [Aircraft](#aircraft)
-2. [Addons](#addons)
-3. [Other Projects](#other-projects)
+- [Aircraft](#aircraft)
+- [Addons](#addons)
+- [Other Projects](#other-projects)
 
 ## Aircraft
 

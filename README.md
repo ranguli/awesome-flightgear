@@ -23,6 +23,8 @@
 - [liveries.flightgear.org](https://liveries.flightgear.org/) - FlightGear Livery Database.
 
 ## Addons
+- [Landing Rate](https://github.com/RenanMsV/landing_rate) - FlightGear Landing Rate addon. Show your landing stats.
+- [FlightGear Add-on Logbook](https://github.com/PlayeRom/flightgear-addon-logbook) - FlightGear add-on for logbook all your flights to CSV file
 
 ## Other Projects
 

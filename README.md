@@ -12,6 +12,7 @@
 
 ### Commercial Aviation
 - [Airbus A320 Family](https://github.com/legoboyvdlp/A320-family) - A high-quality Airbus A320 simulation for the open source simulator, FlightGear.
+- [Boeing 737-800](https://github.com/YV3399/737-800YV) - Boeing 737-800 for Flightgear flight simulator.
 
 ### Military Aviation
 - [F-16](https://github.com/NikolaiVChr/f16) - General Dynamics F-16 for Flightgear flight simulator.

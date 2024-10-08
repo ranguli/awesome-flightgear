@@ -20,7 +20,7 @@
 
 ### Liveries
 
-- [liveries.flightgear.org](https://liveries.flightgear.org/) - FlightGear Livery Database.
+- [FlightGear Livery Database](https://liveries.flightgear.org/) - The official FlightGear Livery Database. Since 2017, no new liveries are accepted. Liveries may not be compatible with newer versions of aircraft models. Excellent source of existing/legacy liveries however.
 
 ## Addons
 - [Landing Rate](https://github.com/RenanMsV/landing_rate) - FlightGear Landing Rate addon. Show your landing stats.

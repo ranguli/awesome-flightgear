@@ -1,4 +1,15 @@
+<div align="center" markdown="1">
+
+[![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)&#160;
+
+</div>
+
 # awesome-flightgear
+
+
+✈️ Curated list of awesome FlightGear projects and repositories
+
+
 
 ## Table of Contents
 - [Aircraft](#aircraft)

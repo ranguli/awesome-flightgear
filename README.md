@@ -27,6 +27,9 @@
 - [Landing Rate](https://github.com/RenanMsV/landing_rate) - FlightGear Landing Rate addon. Show your landing stats.
 - [FlightGear Add-on Logbook](https://github.com/PlayeRom/flightgear-addon-logbook) - FlightGear add-on for logbook all your flights to CSV file
 
+## Tools
+- [IntelliJ IDEA language support for Nasal](https://github.com/BobDotCom/Nasal) - An IntelliJ IDEA language support plugin for Nasal, the scripting language used by FlightGear.
+
 ## Other Projects
 
 - 🥇 [FlightGear Multiplayer Map (µ)](https://github.com/t3r/mpmap.js) - A nice, decently modern web-based multiplayer map for FlightGear. Built with NodeJS. View a live demo [here!](https://mpmap03.flightgear.org/)

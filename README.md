@@ -31,6 +31,7 @@
 ## Tools
 - [Nasal language support for IntelliJ IDEA](https://github.com/BobDotCom/Nasal) - An IntelliJ IDEA language support plugin for Nasal, the scripting language used by FlightGear.
 - [Nasal language support for Visual Studio Code](https://github.com/RenanMsV/nasal-vscode) - Nasal language support plugin for Visual Studio Code
+- [Nasal for Sublime Text](https://github.com/NikolaiVChr/sublime-nasal) - Nasal syntax highlighting for Sublime Text 4
 
 ## Other Projects
 

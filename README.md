@@ -29,7 +29,8 @@
 - [FlightGear Add-on Logbook](https://github.com/PlayeRom/flightgear-addon-logbook) - FlightGear add-on for logbook all your flights to CSV file
 
 ## Tools
-- [IntelliJ IDEA language support for Nasal](https://github.com/BobDotCom/Nasal) - An IntelliJ IDEA language support plugin for Nasal, the scripting language used by FlightGear.
+- [Nasal language support for IntelliJ IDEA](https://github.com/BobDotCom/Nasal) - An IntelliJ IDEA language support plugin for Nasal, the scripting language used by FlightGear.
+- [Nasal language support for Visual Studio Code](https://github.com/RenanMsV/nasal-vscode) - Nasal language support plugin for Visual Studio Code
 
 ## Other Projects
 

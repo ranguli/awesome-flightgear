@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Aircraft](#aircraft)
 - [Addons](#addons)
+- [Tools](#tools)
 - [Other Projects](#other-projects)
 - [About](#about)
 ## Aircraft

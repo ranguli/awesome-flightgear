@@ -14,6 +14,7 @@
 ## Table of Contents
 - [Aircraft](#aircraft)
 - [Addons](#addons)
+- [Tools](#tools)
 - [Other Projects](#other-projects)
 - [About](#about)
 ## Aircraft
@@ -37,6 +38,12 @@
 ## Addons
 - [Landing Rate](https://github.com/RenanMsV/landing_rate) - FlightGear Landing Rate addon. Show your landing stats.
 - [FlightGear Add-on Logbook](https://github.com/PlayeRom/flightgear-addon-logbook) - FlightGear add-on for logbook all your flights to CSV file
+
+## Tools
+- [Nasal language support for IntelliJ IDEA](https://github.com/BobDotCom/Nasal) - An IntelliJ IDEA language support plugin for Nasal, the scripting language used by FlightGear.
+- [Nasal language support for Visual Studio Code](https://github.com/RenanMsV/nasal-vscode) - Nasal language support plugin for Visual Studio Code
+- [Nasal for Sublime Text](https://github.com/NikolaiVChr/sublime-nasal) - Nasal syntax highlighting for Sublime Text 4
+- [TextMate language support for Nasal](https://github.com/BobDotCom/Nasal.tmbundle) - This TextMate bundle provides language support for Nasal.
 
 ## Other Projects
 

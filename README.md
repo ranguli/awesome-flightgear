@@ -33,7 +33,6 @@
 - [Nasal language support for Visual Studio Code](https://github.com/RenanMsV/nasal-vscode) - Nasal language support plugin for Visual Studio Code
 - [Nasal for Sublime Text](https://github.com/NikolaiVChr/sublime-nasal) - Nasal syntax highlighting for Sublime Text 4
 - [TextMate language support for Nasal](https://github.com/BobDotCom/Nasal.tmbundle) - This TextMate bundle provides language support for Nasal.
-- [Generate Nasal API documentation from Nasal scripts](https://github.com/RenanMsV/nasal-api-docs) - Auto generates Nasal API documentation from FlightGear's nasal scripts.
 
 ## Other Projects
 
